@@ -59,7 +59,7 @@ DOMAINS = ["m78xy.eu.cc" , "hm9527.qzz.io"] # all domain names
 #    { domains = ["xxx.xxx1" , "xxx.xxx2"], role = "vip", prefix = "vip" },
 #    { domains = ["xxx.xxx1" , "xxx.xxx2"], role = "admin", prefix = "" },
 # ]
-JWT_SECRET = "xxx"
+JWT_SECRET = "2sXGLX9DNsv6pUzBJqYz8C9En5r8HgL223RyaR3Bk6z01658nl7"
 BLACK_LIST = ""
 # Allow users to create email addresses
 ENABLE_USER_CREATE_EMAIL = true
